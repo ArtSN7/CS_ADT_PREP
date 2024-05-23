@@ -7,7 +7,7 @@
 // A C D 
 // Search result for 'B' after removal: null
 
-public class LinkedListTester {
+public class LinkedListT {
 
     public static void main(String[] args) {
         testLinkedList();
